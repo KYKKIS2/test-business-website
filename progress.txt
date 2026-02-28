@@ -2,3 +2,5 @@ Ralph Loop Progress Log
 
 
 ---
+complete
+<promise>LOOP_COMPLETE</promise>
